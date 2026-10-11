@@ -1,0 +1,21 @@
+import assert from 'node:assert/strict';
+import {readFileSync,existsSync} from 'node:fs';
+import {quoteOrder,isAdmin,safeUrl} from '../lib/commerce.ts';
+const {products}=JSON.parse(readFileSync(new URL('../data/catalog.json',import.meta.url)));
+const p=products[0],line={id:p.id,color:p.colors[0],size:p.sizes[0],quantity:2,price:1};
+assert.equal(quoteOrder(products,[line]).total,p.price*200);
+assert.throws(()=>quoteOrder(products,[{...line,quantity:-1}]));
+assert.throws(()=>quoteOrder(products,[{...line,color:'Invalid'}]));
+assert.throws(()=>quoteOrder(products,[{...line,size:'Invalid'}]));
+assert.throws(()=>quoteOrder([{...p,status:'Out of stock'}],[line]));
+assert.throws(()=>quoteOrder([{...p,status:'Coming soon'}],[line]));
+assert.throws(()=>quoteOrder([{...p,stock:3}],[line,line]));
+assert.throws(()=>quoteOrder([{...p,status:'Pre-order',availableDate:''}],[line]));
+assert.equal(quoteOrder([{...p,status:'Pre-order',stock:0,availableDate:'2027-02-15'}],[line]).total,p.price*200);
+assert.throws(()=>quoteOrder(products,[line],true));
+assert.equal(quoteOrder(products,[{...line,quantity:12}],true).total,Math.round(p.price*100*.6)*12);
+assert.equal(isAdmin('buyer@example.com'),false);assert.equal(isAdmin('muchato@gmail.com'),true);assert.equal(isAdmin(undefined),false);
+assert.equal(safeUrl('javascript:alert(1)'),'');assert.equal(safeUrl('https://example.com'),'https://example.com/');
+const ids=new Set();for(const x of products){assert(!ids.has(x.id));ids.add(x.id);assert(x.price>0);assert(x.colors.length);assert(x.sizes.length);assert(existsSync(new URL('../public'+x.image,import.meta.url)),x.image);for(const v of Object.values(x.variantImages||{}))assert(existsSync(new URL('../public'+v,import.meta.url)),v);}
+const old=JSON.parse(readFileSync(new URL('../data/legacy-catalog.json',import.meta.url)));for(const x of old.products)assert(ids.has(x.id),x.id);
+console.log('Commerce checks passed: authoritative prices, quantities, stock/status gates, pre-orders, trade minimum, admin identity, safe links, all 81 styles and 68 retained originals.');

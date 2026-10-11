@@ -1,0 +1,2427 @@
+{
+  "brand": "DURBAR COLLEZIONI",
+  "domain": "durbarcollezioni.com",
+  "status": "Design collection — prices and production specifications pending",
+  "products": [
+    {
+      "id": "signature",
+      "name": "The Signature Polo",
+      "line": "Signature",
+      "category": "Polos",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "signature",
+      "pictured": "Cream",
+      "colors": [
+        "Cream",
+        "Navy",
+        "Sky",
+        "Black"
+      ],
+      "desc": "A quiet silhouette, made expressive by its signature. Contrast collar and cuffs frame paired ceremonial riders in vivid embroidery.",
+      "details": [
+        "Proposed cotton piqué construction",
+        "Colorful paired horsemen embroidery",
+        "Contrasting collar and cuff detailing"
+      ],
+      "note": "Design rendering shows the straight-cut reference. Women’s fit is a proposed tailored variation.",
+      "aliases": [
+        "Equestrian Emblem Polo"
+      ]
+    },
+    {
+      "id": "sporting",
+      "name": "The Sporting Polo",
+      "line": "Sporting",
+      "category": "Polos",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "sporting",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Burgundy",
+        "Cream",
+        "Sky"
+      ],
+      "desc": "Bold proportions meet the pageantry of the Durbar. A broad chest band and expressive house lettering give the Sporting Polo its confident rhythm.",
+      "details": [
+        "Wide contrasting chest band",
+        "D crest and ceremonial rider embroidery",
+        "Coordinated contrasting collar"
+      ],
+      "note": "Design rendering shows the straight-cut reference. Women’s fit is a proposed tailored variation.",
+      "aliases": [
+        "Monarch Contrast Polo"
+      ]
+    },
+    {
+      "id": "heritage",
+      "name": "The Heritage Polo",
+      "line": "Heritage",
+      "category": "Polos",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "heritage",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Burgundy",
+        "Black",
+        "Cream"
+      ],
+      "desc": "Rich color and an ornamental border frame the richly dressed riders. An expressive centerpiece of the Heritage edit.",
+      "details": [
+        "Ornamental embroidery border",
+        "Gold-tone brand lettering",
+        "Cream contrasting collar and cuffs"
+      ],
+      "note": "Design rendering shows the straight-cut reference. Women’s fit is a proposed tailored variation.",
+      "aliases": [
+        "Heritage Crest Polo"
+      ]
+    },
+    {
+      "id": "track",
+      "name": "The Rider Track Jacket",
+      "line": "Sporting",
+      "category": "Outerwear",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "jacket",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Forest",
+        "Black",
+        "Burgundy"
+      ],
+      "desc": "A full-zip sporting layer with contrasting shoulder panels and a single colorful rider motif.",
+      "details": [
+        "Proposed full-zip construction",
+        "Stand collar and ribbed trims",
+        "Coordinating cream and burgundy panel details"
+      ],
+      "note": "Design rendering shows the straight-cut reference; both fit options are proposed.",
+      "aliases": [
+        "Athletic Track Jacket"
+      ]
+    },
+    {
+      "id": "court",
+      "name": "The Court Ensemble",
+      "line": "Sporting",
+      "category": "Sets",
+      "gender": [
+        "Women"
+      ],
+      "image": "women",
+      "pictured": "Burgundy",
+      "colors": [
+        "Burgundy",
+        "Navy",
+        "Forest",
+        "Sky"
+      ],
+      "desc": "A coordinated court-inspired top and pleated skirt that pairs warm color with an ornamental sporting identity.",
+      "details": [
+        "Collared top and pleated skirt concept",
+        "Coordinated rider embroidery",
+        "Cream contrasting skirt"
+      ],
+      "note": "Fabric performance, skirt length and final fit will be confirmed during sampling."
+    },
+    {
+      "id": "training",
+      "name": "The Track Ensemble",
+      "line": "Sporting",
+      "category": "Sets",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "training",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Navy",
+        "Black",
+        "Burgundy"
+      ],
+      "desc": "A matching jacket and tapered training trouser concept with a clean line and rich embroidered accents.",
+      "details": [
+        "Zip jacket and tapered trouser concept",
+        "Coordinated contrast side panels",
+        "Rider motif on jacket and trouser"
+      ],
+      "note": "Fabric, movement allowance and fit will be confirmed during sampling."
+    },
+    {
+      "id": "essentials",
+      "name": "The Sporting Essentials",
+      "line": "Heritage",
+      "category": "Accessories",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "accessories",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Navy",
+        "Black",
+        "Cream"
+      ],
+      "desc": "A coordinated cap and carryall concept that brings the Durbar signature to the journey as well as the outfit.",
+      "details": [
+        "Matching cap and duffel concept",
+        "Embroidered rider accents",
+        "Cream trims and gold-tone fittings"
+      ],
+      "note": "Concept set includes both the cap and duffel. Final dimensions and construction are pending."
+    },
+    {
+      "id": "denim",
+      "name": "Atelier Rider Denim",
+      "line": "Atelier",
+      "category": "Denim",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "denim",
+      "pictured": "Indigo",
+      "colors": [
+        "Indigo",
+        "Black",
+        "Vintage",
+        "Ivory"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "desc": "Dark denim, a colorful ceremonial rider and ornamental pocket detailing. A wardrobe anchor for the Atelier collection.",
+      "details": [
+        "Proposed five-pocket denim construction",
+        "Antique brass-tone hardware and tobacco stitching",
+        "D monogram and ornamental back-pocket detail"
+      ],
+      "note": "Front and back reference shown. Men’s straight/tapered and women’s high-rise straight/wide-leg fits are proposed; confirm silhouette and inseam in your inquiry.",
+      "aliases": [
+        "Imperial Slim Denim"
+      ]
+    },
+    {
+      "id": "rider-low",
+      "name": "The Rider Low",
+      "line": "Signature",
+      "category": "Footwear",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "rider-low",
+      "pictured": "Cream",
+      "colors": [
+        "Cream",
+        "Navy",
+        "Black",
+        "Burgundy"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "desc": "A cream low-top concept with forest-green accents and colorful rider embroidery. An elegant companion to Signature polos and Atelier denim.",
+      "details": [
+        "Proposed leather upper with suede accent panels",
+        "Ivory cupsole and antique gold-tone eyelets",
+        "Embroidered rider and gold-tone wordmark"
+      ],
+      "note": "EU sizes are inquiry selections. Last shape, width, fit, materials and sole construction require sampling.",
+      "paletteOverrides": {
+        "Cream": {
+          "trim": "#163e30",
+          "accent": "#b49350",
+          "label": "Cream / Forest / Gold"
+        }
+      },
+      "aliases": [
+        "Monarch Low-Top"
+      ]
+    },
+    {
+      "id": "rider-high",
+      "name": "The Rider High",
+      "line": "Heritage",
+      "category": "Footwear",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "high-black",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Burgundy",
+        "Navy"
+      ],
+      "variantImages": {
+        "Black": "high-black",
+        "Burgundy": "high-burgundy",
+        "Navy": "high-navy"
+      },
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "desc": "A statement high-top with ceremonial rider embroidery. Explore three pictured colorways: black and gold, cream and burgundy, or navy and sky blue.",
+      "details": [
+        "Padded high-top silhouette",
+        "Colorful ceremonial rider side motif",
+        "Coordinated laces, trim and cupsole"
+      ],
+      "note": "Choose a palette to see its individual design mockup. EU sizes, width and final construction require confirmation.",
+      "paletteOverrides": {
+        "Navy": {
+          "trim": "#7db1cc",
+          "accent": "#eee5d5",
+          "label": "Navy / Sky / Ivory"
+        },
+        "Burgundy": {
+          "hex": "#eee5d5",
+          "trim": "#702536",
+          "accent": "#b49350",
+          "label": "Cream / Burgundy / Gold"
+        },
+        "Black": {
+          "trim": "#20211f",
+          "accent": "#b49350",
+          "label": "Black / Gold"
+        }
+      },
+      "aliases": [
+        "High-Top Royale",
+        "Royale High-Top Femme"
+      ]
+    },
+    {
+      "id": "tank-men",
+      "name": "Signature Tank — Men",
+      "line": "Signature",
+      "category": "Tanks",
+      "gender": [
+        "Men"
+      ],
+      "image": "tank-men",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Cream",
+        "Black",
+        "Burgundy"
+      ],
+      "desc": "A relaxed sporting tank with contrasting neckline, ornamental rider and striped hem.",
+      "details": [
+        "Proposed cotton jersey body",
+        "Cream and burgundy contrast binding",
+        "Full-length athletic silhouette"
+      ],
+      "note": "Fabric composition and finished measurements will be established after sampling.",
+      "aliases": [
+        "Monogram Tank"
+      ]
+    },
+    {
+      "id": "tank-women",
+      "name": "Heritage Tank — Women",
+      "line": "Heritage",
+      "category": "Tanks",
+      "gender": [
+        "Women"
+      ],
+      "image": "tank-women",
+      "pictured": "Cream",
+      "colors": [
+        "Cream",
+        "Forest",
+        "Burgundy",
+        "Black"
+      ],
+      "desc": "A gently tailored ribbed tank with a colorful rider and a delicate ornamental hem.",
+      "details": [
+        "Proposed fine ribbed jersey",
+        "Wide straps and full-length silhouette",
+        "Forest-green edging and gold-tone accents"
+      ],
+      "note": "Final stretch, fabric composition and fit require approved samples.",
+      "paletteOverrides": {
+        "Cream": {
+          "trim": "#163e30",
+          "accent": "#b49350",
+          "label": "Cream / Forest / Gold"
+        }
+      },
+      "aliases": [
+        "Signature Ribbed Tank"
+      ]
+    },
+    {
+      "id": "tank-kids",
+      "name": "Junior Rider Tank",
+      "line": "Junior Sporting",
+      "category": "Tanks",
+      "gender": [
+        "Kids"
+      ],
+      "image": "tank-kids",
+      "pictured": "Sky",
+      "colors": [
+        "Sky",
+        "Cream",
+        "Navy",
+        "Forest",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "desc": "A sky-blue tank concept for little riders, with a comfortable silhouette and colorful heritage motif.",
+      "details": [
+        "Relaxed full-length junior silhouette",
+        "Cream and navy neckline binding",
+        "Small ceremonial horseman motif"
+      ],
+      "note": "Age bands are inquiry guides only. Confirm child height, chest and garment measurements before ordering.",
+      "aliases": [
+        "Kids Signature Tank"
+      ]
+    },
+    {
+      "id": "junior-heritage",
+      "name": "Junior Heritage Ensemble",
+      "line": "Junior Heritage",
+      "category": "Sets",
+      "gender": [
+        "Kids"
+      ],
+      "image": "junior-heritage",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Cream",
+        "Burgundy",
+        "Navy",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "desc": "A coordinated polo and shorts concept that brings the Heritage identity to the junior wardrobe.",
+      "details": [
+        "Polo and shorts concept set",
+        "Coordinated cream and forest palette",
+        "Colorful rider accents"
+      ],
+      "note": "Age bands are provisional. Final fit, fabric, construction and measurements will be confirmed during sampling."
+    },
+    {
+      "id": "junior-sporting",
+      "name": "Junior Sporting Ensemble",
+      "line": "Junior Sporting",
+      "category": "Sets",
+      "gender": [
+        "Kids"
+      ],
+      "image": "junior-sporting",
+      "pictured": "Sky",
+      "colors": [
+        "Sky",
+        "Navy",
+        "Cream",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "desc": "A coordinated sweatshirt and jogger concept with a fresh sporting palette and a small colorful rider motif.",
+      "details": [
+        "Sweatshirt and jogger concept set",
+        "Sky-blue sweatshirt and navy joggers",
+        "Comfort-oriented junior silhouette"
+      ],
+      "note": "Age bands are provisional. Final material and dimensions require sampling.",
+      "aliases": [
+        "Junior Victory Tracksuit"
+      ]
+    },
+    {
+      "id": "noir",
+      "name": "Noir — Pour Homme",
+      "line": "Les Parfums",
+      "category": "Fragrance",
+      "gender": [
+        "Men"
+      ],
+      "image": "noir",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Forest"
+      ],
+      "sizes": [
+        "50 ml",
+        "100 ml"
+      ],
+      "desc": "A proposed men’s fragrance concept: a woody, amber-toned direction in a sculptural dark bottle with a ceremonial rider medallion.",
+      "details": [
+        "Proposed top notes: bergamot and cardamom",
+        "Proposed heart: cedar and aromatic spices",
+        "Proposed base: amber, vetiver and soft woods"
+      ],
+      "note": "Fragrance and packaging concept only. Formula, concentration, volume, ingredients, performance and suitability are not yet established. Palette refers to packaging.",
+      "paletteOverrides": {
+        "Black": {
+          "trim": "#b49350",
+          "accent": "#163e30",
+          "label": "Black / Gold / Forest"
+        }
+      },
+      "aliases": [
+        "Durbar Homme Eau de Parfum"
+      ]
+    },
+    {
+      "id": "ambre-rose",
+      "name": "Ambre Rose — Pour Femme",
+      "line": "Les Parfums",
+      "category": "Fragrance",
+      "gender": [
+        "Women"
+      ],
+      "image": "ambre-rose",
+      "pictured": "Rose",
+      "colors": [
+        "Rose",
+        "Ivory"
+      ],
+      "sizes": [
+        "50 ml",
+        "100 ml"
+      ],
+      "desc": "A proposed women’s fragrance concept: a floral amber direction, presented in luminous glass with rose-gold accents.",
+      "details": [
+        "Proposed top notes: mandarin and pink pepper",
+        "Proposed heart: rose and orange blossom",
+        "Proposed base: amber, vanilla and soft musk"
+      ],
+      "note": "Fragrance and packaging concept only. Formula, concentration, volume, ingredients, performance and suitability are not yet established. Palette refers to packaging.",
+      "paletteOverrides": {
+        "Ivory": {
+          "trim": "#cba49c",
+          "accent": "#b48a65",
+          "label": "Ivory / Rose / Rose Gold"
+        }
+      },
+      "aliases": [
+        "Durbar Femme Eau de Parfum"
+      ]
+    },
+    {
+      "id": "edit-2",
+      "name": "Regent Long-Sleeve Polo",
+      "line": "Signature",
+      "category": "Polos",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-2",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "An elegant transitional essential designed for effortless day-to-evening dressing.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-4",
+      "name": "Signature Knit Polo",
+      "line": "Signature",
+      "category": "Polos",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-4",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "Soft-touch knit texture and understated detail for an impeccably composed look.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-5",
+      "name": "Imperial Rugby Polo",
+      "line": "Signature",
+      "category": "Polos",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-5",
+      "pictured": "Burgundy",
+      "colors": [
+        "Burgundy",
+        "Navy",
+        "Cream",
+        "Forest"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "A heritage-inspired rugby silhouette reinterpreted with a luxury sensibility.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-7",
+      "name": "Sovereign Straight Denim",
+      "line": "Atelier",
+      "category": "Denim",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-7",
+      "pictured": "Indigo",
+      "colors": [
+        "Indigo",
+        "Black",
+        "Vintage",
+        "Ivory"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "desc": "A timeless straight-leg silhouette made for polished casual wardrobes.",
+      "details": [
+        "Proposed five-pocket construction",
+        "House insignia and considered pocket detailing",
+        "Coordinated stitching and hardware concept"
+      ],
+      "note": "Design rendering. Confirm waist, inseam, silhouette and finished measurements during sampling."
+    },
+    {
+      "id": "edit-8",
+      "name": "Noir Selvedge Denim",
+      "line": "Atelier",
+      "category": "Denim",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-8",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Indigo",
+        "Vintage",
+        "Ivory"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "desc": "Dark denim with tailored presence and an elevated, understated finish.",
+      "details": [
+        "Proposed five-pocket construction",
+        "House insignia and considered pocket detailing",
+        "Coordinated stitching and hardware concept"
+      ],
+      "note": "Design rendering. Confirm waist, inseam, silhouette and finished measurements during sampling."
+    },
+    {
+      "id": "edit-9",
+      "name": "Atelier Relaxed Denim",
+      "line": "Atelier",
+      "category": "Denim",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-9",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Indigo",
+        "Black",
+        "Vintage"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "desc": "Modern relaxed proportions balanced with a crisp, luxurious aesthetic.",
+      "details": [
+        "Proposed five-pocket construction",
+        "House insignia and considered pocket detailing",
+        "Coordinated stitching and hardware concept"
+      ],
+      "note": "Design rendering. Confirm waist, inseam, silhouette and finished measurements during sampling."
+    },
+    {
+      "id": "edit-10",
+      "name": "Heritage Washed Denim",
+      "line": "Atelier",
+      "category": "Denim",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-10",
+      "pictured": "Vintage",
+      "colors": [
+        "Vintage",
+        "Indigo",
+        "Black",
+        "Ivory"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "desc": "An artful wash brings character to an enduring everyday essential.",
+      "details": [
+        "Proposed five-pocket construction",
+        "House insignia and considered pocket detailing",
+        "Coordinated stitching and hardware concept"
+      ],
+      "note": "Design rendering. Confirm waist, inseam, silhouette and finished measurements during sampling."
+    },
+    {
+      "id": "edit-11",
+      "name": "Crown Signature Tee",
+      "line": "Atelier",
+      "category": "Tops",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-11",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "An versatile crewneck concept with a discreet house insignia.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-12",
+      "name": "Grand Tour Overshirt",
+      "line": "Atelier",
+      "category": "Tops",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-12",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Navy",
+        "Cream",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "Layered sophistication in a structured overshirt for travel and city life.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-14",
+      "name": "Royal Linen Shirt",
+      "line": "Atelier",
+      "category": "Tops",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-14",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "Airy tailoring and subtle detail for summer occasions and resort dressing.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-15",
+      "name": "Equestrian Graphic Tee",
+      "line": "Atelier",
+      "category": "Tops",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-15",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "Expressive house artwork celebrating movement, heritage and individuality.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-16",
+      "name": "Durbar Sport Performance Tee",
+      "line": "Sporting",
+      "category": "Activewear",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-16",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "A streamlined training essential with a considered sporting silhouette.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-17",
+      "name": "Victory Training Short",
+      "line": "Sporting",
+      "category": "Activewear",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-17",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "Lightweight-inspired freedom of movement meets a considered tailored look.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-19",
+      "name": "Performance Jogger",
+      "line": "Sporting",
+      "category": "Activewear",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-19",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Navy",
+        "Cream",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "Contemporary comfort with polished taper and tonal house branding.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-20",
+      "name": "Executive Hybrid — Series 01",
+      "line": "Signature",
+      "category": "Footwear",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-20",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Ivory",
+        "Navy",
+        "Cognac"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "desc": "The signature hybrid: dress-shoe poise, athletic ease and a crowned DC heel identity.",
+      "details": [
+        "Distinctive Durbar house detailing",
+        "Coordinated upper, sole and finishing accents",
+        "EU inquiry sizes; confirm foot length and width"
+      ],
+      "note": "Design rendering. Color options are proposed; the reference image shows Black. Final materials, width and fit will follow sample approval.",
+      "originalImage": "executive-campaign"
+    },
+    {
+      "id": "edit-23",
+      "name": "Regent Court Sneaker",
+      "line": "Signature",
+      "category": "Footwear",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-23",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Black",
+        "Navy",
+        "Cognac"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "desc": "A timeless court-inspired profile with refined trim and elegant proportions.",
+      "details": [
+        "Distinctive Durbar house detailing",
+        "Coordinated upper, sole and finishing accents",
+        "EU inquiry sizes; confirm foot length and width"
+      ],
+      "note": "Design rendering. Color options are proposed; the reference image shows Ivory. Final materials, width and fit will follow sample approval."
+    },
+    {
+      "id": "edit-24",
+      "name": "Crown Runner",
+      "line": "Signature",
+      "category": "Footwear",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-24",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Black",
+        "Ivory",
+        "Cognac"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "desc": "Dynamic sculptural lines bring an expressive edge to everyday luxury.",
+      "details": [
+        "Distinctive Durbar house detailing",
+        "Coordinated upper, sole and finishing accents",
+        "EU inquiry sizes; confirm foot length and width"
+      ],
+      "note": "Design rendering. Color options are proposed; the reference image shows Navy. Final materials, width and fit will follow sample approval."
+    },
+    {
+      "id": "edit-25",
+      "name": "Sovereign Slip-On",
+      "line": "Signature",
+      "category": "Footwear",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-25",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Ivory",
+        "Navy",
+        "Cognac"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "desc": "Effortless, minimal and versatile for the modern metropolitan wardrobe.",
+      "details": [
+        "Distinctive Durbar house detailing",
+        "Coordinated upper, sole and finishing accents",
+        "EU inquiry sizes; confirm foot length and width"
+      ],
+      "note": "Design rendering. Color options are proposed; the reference image shows Black. Final materials, width and fit will follow sample approval."
+    },
+    {
+      "id": "edit-27",
+      "name": "Durbar Noir Intense",
+      "line": "Les Parfums",
+      "category": "Fragrance",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-27",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Forest"
+      ],
+      "sizes": [
+        "50 ml",
+        "100 ml"
+      ],
+      "desc": "A proposed evening composition of spice, dark woods and smooth resin.",
+      "details": [
+        "50 ml and 100 ml bottle concepts",
+        "Crowned DC and ceremonial rider seal",
+        "Evening spice and dark-wood direction"
+      ],
+      "note": "Packaging and olfactory direction are design concepts. Formula, ingredients, concentration and performance will be confirmed before launch."
+    },
+    {
+      "id": "edit-28",
+      "name": "Monarch Leather Belt",
+      "line": "Heritage",
+      "category": "Accessories",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-28",
+      "pictured": "Cognac",
+      "colors": [
+        "Cognac",
+        "Black",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "80 cm",
+        "90 cm",
+        "100 cm",
+        "110 cm",
+        "120 cm"
+      ],
+      "desc": "A classic finishing touch with discreet branded buckle detailing.",
+      "details": [
+        "Discreet Durbar house insignia",
+        "A coordinated finishing palette",
+        "Construction and material concept for development"
+      ],
+      "note": "Design rendering. Final dimensions, material composition and hardware will follow sample approval."
+    },
+    {
+      "id": "edit-29",
+      "name": "Crown Baseball Cap",
+      "line": "Heritage",
+      "category": "Accessories",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-29",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Black",
+        "Cognac",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "desc": "Sporting heritage in a clean, quietly distinctive silhouette.",
+      "details": [
+        "Discreet Durbar house insignia",
+        "A coordinated finishing palette",
+        "Construction and material concept for development"
+      ],
+      "note": "Design rendering. Final dimensions, material composition and hardware will follow sample approval."
+    },
+    {
+      "id": "edit-30",
+      "name": "Heritage Weekender",
+      "line": "Heritage",
+      "category": "Accessories",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-30",
+      "pictured": "Cognac",
+      "colors": [
+        "Cognac",
+        "Black",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "desc": "An elegant travel companion with purposeful proportions and signature accents.",
+      "details": [
+        "Discreet Durbar house insignia",
+        "A coordinated finishing palette",
+        "Construction and material concept for development"
+      ],
+      "note": "Design rendering. Final dimensions, material composition and hardware will follow sample approval."
+    },
+    {
+      "id": "edit-31",
+      "name": "Signature Cardholder",
+      "line": "Heritage",
+      "category": "Accessories",
+      "gender": [
+        "Men"
+      ],
+      "image": "edit-31",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Cognac",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "desc": "Slim organization with a refined monogram detail.",
+      "details": [
+        "Discreet Durbar house insignia",
+        "A coordinated finishing palette",
+        "Construction and material concept for development"
+      ],
+      "note": "Design rendering. Final dimensions, material composition and hardware will follow sample approval."
+    },
+    {
+      "id": "edit-32",
+      "name": "Atelier Fitted Polo",
+      "line": "Signature",
+      "category": "Polos",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-32",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Rose",
+        "Forest",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "A flattering contemporary polo with subtle crest embroidery.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-33",
+      "name": "Equestrian Knit Polo",
+      "line": "Signature",
+      "category": "Polos",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-33",
+      "pictured": "Burgundy",
+      "colors": [
+        "Burgundy",
+        "Ivory",
+        "Rose",
+        "Forest",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "Sporting tradition meets graceful knitwear and feminine tailoring.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-34",
+      "name": "Atelier Sculpt Denim",
+      "line": "Atelier",
+      "category": "Denim",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-34",
+      "pictured": "Indigo",
+      "colors": [
+        "Indigo",
+        "Black",
+        "Vintage",
+        "Ivory"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "desc": "A streamlined denim silhouette designed for confident everyday styling.",
+      "details": [
+        "Proposed five-pocket construction",
+        "House insignia and considered pocket detailing",
+        "Coordinated stitching and hardware concept"
+      ],
+      "note": "Design rendering. Confirm waist, inseam, silhouette and finished measurements during sampling."
+    },
+    {
+      "id": "edit-35",
+      "name": "Sovereign Wide-Leg Denim",
+      "line": "Atelier",
+      "category": "Denim",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-35",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Indigo",
+        "Black",
+        "Vintage"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "desc": "A sweeping modern cut with effortless movement and elegant structure.",
+      "details": [
+        "Proposed five-pocket construction",
+        "House insignia and considered pocket detailing",
+        "Coordinated stitching and hardware concept"
+      ],
+      "note": "Design rendering. Confirm waist, inseam, silhouette and finished measurements during sampling."
+    },
+    {
+      "id": "edit-36",
+      "name": "Noir High-Rise Denim",
+      "line": "Atelier",
+      "category": "Denim",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-36",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Indigo",
+        "Vintage",
+        "Ivory"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "desc": "Refined dark denim designed for versatile day-to-evening dressing.",
+      "details": [
+        "Proposed five-pocket construction",
+        "House insignia and considered pocket detailing",
+        "Coordinated stitching and hardware concept"
+      ],
+      "note": "Design rendering. Confirm waist, inseam, silhouette and finished measurements during sampling."
+    },
+    {
+      "id": "edit-38",
+      "name": "Crown Silk-Feel Blouse",
+      "line": "Atelier",
+      "category": "Tops",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-38",
+      "pictured": "Champagne",
+      "colors": [
+        "Champagne",
+        "Ivory",
+        "Rose",
+        "Forest",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "Fluid elegance and refined detailing for the modern wardrobe.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-39",
+      "name": "Regent Tailored Blazer",
+      "line": "Atelier",
+      "category": "Tops",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-39",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Ivory",
+        "Rose",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "Sharp shoulders and an assured silhouette for statement dressing.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-40",
+      "name": "Monogram Cropped Tee",
+      "line": "Atelier",
+      "category": "Tops",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-40",
+      "pictured": "Rose",
+      "colors": [
+        "Rose",
+        "Ivory",
+        "Forest",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "A playful proportion balanced by minimalist luxury styling.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-41",
+      "name": "Heritage Resort Shirt",
+      "line": "Atelier",
+      "category": "Tops",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-41",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Rose",
+        "Forest",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "A breezy expressive piece with subtle equestrian-inspired motifs.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-42",
+      "name": "Atelier Performance Set",
+      "line": "Sporting",
+      "category": "Activewear",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-42",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Ivory",
+        "Rose",
+        "Forest"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "A coordinated activewear concept blending movement and sleek lines.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-43",
+      "name": "Studio Sculpt Legging",
+      "line": "Sporting",
+      "category": "Activewear",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-43",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Ivory",
+        "Rose",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "A streamlined studio-to-street silhouette with tonal crest detailing.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-44",
+      "name": "Crown Training Jacket",
+      "line": "Sporting",
+      "category": "Activewear",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-44",
+      "pictured": "Rose",
+      "colors": [
+        "Rose",
+        "Ivory",
+        "Forest",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "desc": "A versatile layer that brings polish to an active lifestyle.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Coordinated wardrobe palette"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-45",
+      "name": "Atelier Sneaker",
+      "line": "Signature",
+      "category": "Footwear",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-45",
+      "pictured": "Rose",
+      "colors": [
+        "Rose",
+        "Ivory",
+        "Forest",
+        "Champagne"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "desc": "Everyday refinement in a clean sneaker with a feminine sculpted profile.",
+      "details": [
+        "Distinctive Durbar house detailing",
+        "Coordinated upper, sole and finishing accents",
+        "EU inquiry sizes; confirm foot length and width"
+      ],
+      "note": "Design rendering. Color options are proposed; the reference image shows Rose. Final materials, width and fit will follow sample approval."
+    },
+    {
+      "id": "edit-47",
+      "name": "Celeste Court Sneaker",
+      "line": "Signature",
+      "category": "Footwear",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-47",
+      "pictured": "Champagne",
+      "colors": [
+        "Champagne",
+        "Ivory",
+        "Rose",
+        "Forest"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "desc": "Light, understated styling with considered metallic accents.",
+      "details": [
+        "Distinctive Durbar house detailing",
+        "Coordinated upper, sole and finishing accents",
+        "EU inquiry sizes; confirm foot length and width"
+      ],
+      "note": "Design rendering. Color options are proposed; the reference image shows Champagne. Final materials, width and fit will follow sample approval."
+    },
+    {
+      "id": "edit-48",
+      "name": "Monarch Platform Sneaker",
+      "line": "Signature",
+      "category": "Footwear",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-48",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Rose",
+        "Forest",
+        "Champagne"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "desc": "Elevated proportions with a distinctly modern point of view.",
+      "details": [
+        "Distinctive Durbar house detailing",
+        "Coordinated upper, sole and finishing accents",
+        "EU inquiry sizes; confirm foot length and width"
+      ],
+      "note": "Design rendering. Color options are proposed; the reference image shows Ivory. Final materials, width and fit will follow sample approval."
+    },
+    {
+      "id": "edit-50",
+      "name": "Durbar Éclat",
+      "line": "Les Parfums",
+      "category": "Fragrance",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-50",
+      "pictured": "Champagne",
+      "colors": [
+        "Champagne",
+        "Ivory",
+        "Rose"
+      ],
+      "sizes": [
+        "50 ml",
+        "100 ml"
+      ],
+      "desc": "A proposed fresh floral signature with sparkling fruit and gentle musk.",
+      "details": [
+        "50 ml and 100 ml bottle concepts",
+        "Crowned DC and ceremonial rider seal",
+        "Fresh floral, fruit and soft-musk direction"
+      ],
+      "note": "Packaging and olfactory direction are design concepts. Formula, ingredients, concentration and performance will be confirmed before launch."
+    },
+    {
+      "id": "edit-51",
+      "name": "Crown Tote",
+      "line": "Heritage",
+      "category": "Accessories",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-51",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Ivory",
+        "Burgundy",
+        "Rose"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "desc": "A commanding everyday carryall with elegant lines and subtle insignia.",
+      "details": [
+        "Discreet Durbar house insignia",
+        "A coordinated finishing palette",
+        "Construction and material concept for development"
+      ],
+      "note": "Design rendering. Final dimensions, material composition and hardware will follow sample approval."
+    },
+    {
+      "id": "edit-52",
+      "name": "Atelier Mini Bag",
+      "line": "Heritage",
+      "category": "Accessories",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-52",
+      "pictured": "Burgundy",
+      "colors": [
+        "Burgundy",
+        "Forest",
+        "Ivory",
+        "Rose"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "desc": "A compact statement piece for occasions that deserve attention.",
+      "details": [
+        "Discreet Durbar house insignia",
+        "A coordinated finishing palette",
+        "Construction and material concept for development"
+      ],
+      "note": "Design rendering. Final dimensions, material composition and hardware will follow sample approval."
+    },
+    {
+      "id": "edit-53",
+      "name": "Heritage Silk Scarf",
+      "line": "Heritage",
+      "category": "Accessories",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-53",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Forest",
+        "Burgundy",
+        "Rose"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "desc": "Expressive patterns inspired by the movement and pageantry of the durbar.",
+      "details": [
+        "Discreet Durbar house insignia",
+        "A coordinated finishing palette",
+        "Construction and material concept for development"
+      ],
+      "note": "Design rendering. Final dimensions, material composition and hardware will follow sample approval."
+    },
+    {
+      "id": "edit-54",
+      "name": "Monarch Sunglasses",
+      "line": "Heritage",
+      "category": "Accessories",
+      "gender": [
+        "Women"
+      ],
+      "image": "edit-54",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Forest",
+        "Ivory",
+        "Burgundy",
+        "Rose"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "desc": "A sleek finishing touch with a sculptural contemporary profile.",
+      "details": [
+        "Discreet Durbar house insignia",
+        "A coordinated finishing palette",
+        "Construction and material concept for development"
+      ],
+      "note": "Design rendering. Final dimensions, material composition and hardware will follow sample approval."
+    },
+    {
+      "id": "edit-55",
+      "name": "Little Monarch Polo",
+      "line": "Junior Heritage",
+      "category": "Polos",
+      "gender": [
+        "Kids"
+      ],
+      "image": "edit-55",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Cream",
+        "Navy",
+        "Sky",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "desc": "A playful miniature of the house polo with a charming crowned crest.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Age-appropriate fit planning"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-56",
+      "name": "Junior Equestrian Polo",
+      "line": "Junior Heritage",
+      "category": "Polos",
+      "gender": [
+        "Kids"
+      ],
+      "image": "edit-56",
+      "pictured": "Burgundy",
+      "colors": [
+        "Burgundy",
+        "Cream",
+        "Navy",
+        "Sky",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "desc": "Sporting-inspired styling for the next generation of originals.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Age-appropriate fit planning"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-57",
+      "name": "Junior Heritage Denim",
+      "line": "Junior Heritage",
+      "category": "Denim",
+      "gender": [
+        "Kids"
+      ],
+      "image": "edit-57",
+      "pictured": "Indigo",
+      "colors": [
+        "Indigo",
+        "Black",
+        "Vintage",
+        "Ivory",
+        "Red"
+      ],
+      "sizes": [
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "desc": "Easygoing denim styling with the distinctive Durbar touch.",
+      "details": [
+        "Proposed five-pocket construction",
+        "House insignia and considered pocket detailing",
+        "Coordinated stitching and hardware concept"
+      ],
+      "note": "Design rendering. Confirm waist, inseam, silhouette and finished measurements during sampling."
+    },
+    {
+      "id": "edit-58",
+      "name": "Mini Crown Tee",
+      "line": "Junior Sporting",
+      "category": "Tops",
+      "gender": [
+        "Kids"
+      ],
+      "image": "edit-58",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Cream",
+        "Navy",
+        "Sky",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "desc": "A cheerful wardrobe essential celebrating young individuality.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Age-appropriate fit planning"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-59",
+      "name": "Little Regent Hoodie",
+      "line": "Junior Sporting",
+      "category": "Tops",
+      "gender": [
+        "Kids"
+      ],
+      "image": "edit-59",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Cream",
+        "Sky",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "desc": "Cozy everyday layering with a confident signature emblem.",
+      "details": [
+        "Ceremonial rider or crowned DC house signature",
+        "Considered silhouette and contrast finishing",
+        "Age-appropriate fit planning"
+      ],
+      "note": "Design rendering. The proposed fabric, finish and measurements will follow sample approval."
+    },
+    {
+      "id": "edit-62",
+      "name": "Little Monarch Sneaker",
+      "line": "Junior Sporting",
+      "category": "Footwear",
+      "gender": [
+        "Kids"
+      ],
+      "image": "edit-62",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Navy",
+        "Sky",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "EU 26",
+        "EU 27",
+        "EU 28",
+        "EU 29",
+        "EU 30",
+        "EU 31",
+        "EU 32",
+        "EU 33",
+        "EU 34",
+        "EU 35",
+        "EU 36"
+      ],
+      "desc": "A mini signature sneaker with playful proportions and elegant detailing.",
+      "details": [
+        "Distinctive Durbar house detailing",
+        "Coordinated upper, sole and finishing accents",
+        "EU inquiry sizes; confirm foot length and width"
+      ],
+      "note": "Design rendering. Color options are proposed; the reference image shows Ivory. Final materials, width and fit will follow sample approval."
+    },
+    {
+      "id": "edit-63",
+      "name": "Junior Royale High-Top",
+      "line": "Junior Sporting",
+      "category": "Footwear",
+      "gender": [
+        "Kids"
+      ],
+      "image": "edit-63",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Ivory",
+        "Sky",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "EU 26",
+        "EU 27",
+        "EU 28",
+        "EU 29",
+        "EU 30",
+        "EU 31",
+        "EU 32",
+        "EU 33",
+        "EU 34",
+        "EU 35",
+        "EU 36"
+      ],
+      "desc": "A spirited high-top design inspired by the adult Royale collection.",
+      "details": [
+        "Distinctive Durbar house detailing",
+        "Coordinated upper, sole and finishing accents",
+        "EU inquiry sizes; confirm foot length and width"
+      ],
+      "note": "Design rendering. Color options are proposed; the reference image shows Navy. Final materials, width and fit will follow sample approval."
+    },
+    {
+      "id": "edit-64",
+      "name": "Mini Crown Cap",
+      "line": "Junior Heritage",
+      "category": "Accessories",
+      "gender": [
+        "Kids"
+      ],
+      "image": "edit-64",
+      "pictured": "Sky",
+      "colors": [
+        "Sky",
+        "Navy",
+        "Cream",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "desc": "A charming finishing touch for everyday adventures.",
+      "details": [
+        "Discreet Durbar house insignia",
+        "A coordinated finishing palette",
+        "Construction and material concept for development"
+      ],
+      "note": "Design rendering. Final dimensions, material composition and hardware will follow sample approval."
+    }
+  ],
+  "palettes": {
+    "Cream": {
+      "hex": "#f0e8d8",
+      "trim": "#182b47",
+      "accent": "#702536",
+      "label": "Cream / Navy / Burgundy",
+      "mood": "Quiet confidence. Vivid embroidery."
+    },
+    "Navy": {
+      "hex": "#182b47",
+      "trim": "#f0e8d8",
+      "accent": "#702536",
+      "label": "Navy / Cream / Burgundy",
+      "mood": "A bold sporting spirit."
+    },
+    "Forest": {
+      "hex": "#163e30",
+      "trim": "#f0e8d8",
+      "accent": "#b49350",
+      "label": "Forest / Cream / Gold",
+      "mood": "Rich color. Refined detail."
+    },
+    "Burgundy": {
+      "hex": "#702536",
+      "trim": "#f0e8d8",
+      "accent": "#b49350",
+      "label": "Burgundy / Cream / Gold",
+      "mood": "Warm tones. Ornamental character."
+    },
+    "Sky": {
+      "hex": "#7db1cc",
+      "trim": "#f0e8d8",
+      "accent": "#182b47",
+      "label": "Sky / Cream / Navy",
+      "mood": "Light color. A fresh expression."
+    },
+    "Black": {
+      "hex": "#20211f",
+      "trim": "#f0e8d8",
+      "accent": "#b49350",
+      "label": "Black / Cream / Gold",
+      "mood": "A striking evening palette."
+    },
+    "Indigo": {
+      "hex": "#26344b",
+      "trim": "#b28c52",
+      "accent": "#702536",
+      "label": "Indigo / Tobacco / Burgundy",
+      "mood": "Deep denim. Rich heritage."
+    },
+    "Vintage": {
+      "hex": "#7593b0",
+      "trim": "#eee5d5",
+      "accent": "#b28c52",
+      "label": "Vintage Blue / Cream / Tobacco",
+      "mood": "Lighter denim. Everyday expression."
+    },
+    "Ivory": {
+      "hex": "#eee5d5",
+      "trim": "#b49350",
+      "accent": "#163e30",
+      "label": "Ivory / Gold / Forest",
+      "mood": "Luminous tones. Quiet character."
+    },
+    "Rose": {
+      "hex": "#cba49c",
+      "trim": "#f6e7d9",
+      "accent": "#b48a65",
+      "label": "Rose / Champagne / Rose Gold",
+      "mood": "Luminous glass. A floral amber concept."
+    },
+    "Cognac": {
+      "hex": "#8c5837",
+      "trim": "#eee5d5",
+      "accent": "#b49350",
+      "label": "Cognac / Ivory / Gold",
+      "mood": "Warm depth. A tailored finishing touch."
+    },
+    "Champagne": {
+      "hex": "#d8c5a3",
+      "trim": "#f3eddf",
+      "accent": "#b49350",
+      "label": "Champagne / Ivory / Gold",
+      "mood": "Soft luminosity. Restrained elegance."
+    },
+    "Red": {
+      "hex": "#a82d36",
+      "trim": "#eee5d5",
+      "accent": "#182b47",
+      "label": "Crimson / Cream / Navy",
+      "mood": "Expressive color. Ceremonial energy."
+    }
+  }
+}

@@ -1,0 +1,54 @@
+DURBAR COLLEZIONI
+Expanded luxury portal
+
+This is a full-stack Sites / Cloudflare Worker application, not a static HTML upload.
+The source bundle includes the entire 81-style catalogue, all earlier assets,
+new campaign assets, local fonts, API routes, database schema and migrations.
+
+Hosted features
+- ChatGPT sign-in supplied by Sites; user-owned profiles, orders and applications.
+- Owner administration authorised server-side for muchato@gmail.com.
+- D1 tables: profiles, inventory, orders, applications, settings, inquiries.
+- R2 product imagery upload. Customer photos are NEVER accepted by an API.
+- Server-side price, stock-status, variant, trade-account and quantity validation.
+- Demo orders only; no cards, payment, fulfilment or inventory reservation.
+- Pre-orders require a date and customer acceptance.
+- Affiliate applications, approved links, order attribution and review ledger.
+- Big & Tall, Aisha, Elizabethan, Mickey, swim, winter, suits, gold and Western.
+- Customer portrait composition runs in browser memory; all photos clear on
+  leaving or after 10 minutes. No automated content classifier or AI fitting.
+- Media room, editorial motion film, house enquiries, configurable social links.
+
+Owner workflow
+1. Open My account and complete the adult/privacy acceptance.
+2. Open House administration (also in footer for owner).
+3. Inventory: edit or add style, upload image, set sizes/colours, USD price,
+   inventory quantity, season, status and available date. Save.
+4. Partners: review Retailer/Affiliate applications. Approval is required before
+   trade pricing or an active affiliate reference can be used.
+5. Orders: change status; review affiliate ledger after completion + 30 days.
+6. Media & social: add actual channel URLs and verified press articles.
+
+Before taking live payments
+- Select commerce/payments provider and tax/shipping/returns integrations.
+- Add atomic per-variant stock reservation, fulfilment, invoices, transactional
+  email, refund/chargeback events, fraud controls and production monitoring.
+- Replace demo dates/prices and publish physical sample measurements/materials.
+- Upgrade trade price lists, partner payment terms and affiliate payout process.
+- Publish reviewed consumer/privacy policies and jurisdiction-specific notices.
+- For cloud AI try-on, choose a contracted provider; add real moderation, consent
+  checks, fail-closed child handling and tested deletion across every processor.
+  Do not forward customer photos through the current product-image upload API.
+- Configure durbarcollezioni.com through hosting and the domain registrar.
+  No custom domain is connected to this Sites project as of this delivery.
+
+Verification
+TypeScript and production build; commerce calculations and availability/access
+helpers; complete image-reference audit. Interactive browser QA was unavailable
+in this environment, so a final device checkout test is required before public
+launch. Current Site audience is preserved; this release does not make it public.
+
+Development
+Use the supported Sites installer/build workflow. .openai/hosting.json preserves
+the project identity and declares DB and BUCKET. Generated migrations are
+schema-only. Credentials and runtime secrets are not included.

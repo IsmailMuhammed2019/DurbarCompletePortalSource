@@ -1,0 +1,3010 @@
+{
+  "products": [
+    {
+      "id": "signature",
+      "name": "The Signature Polo",
+      "category": "Polos",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "/assets/signature.webp",
+      "pictured": "Cream",
+      "colors": [
+        "Cream",
+        "Navy",
+        "Sky",
+        "Black"
+      ],
+      "price": 195,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "description": "The house signature, expressed through confident colour and the enduring elegance of the rider. An effortless foundation for a considered wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "sporting",
+      "name": "The Sporting Polo",
+      "category": "Polos",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "/assets/sporting.webp",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Burgundy",
+        "Cream",
+        "Sky"
+      ],
+      "price": 215,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "description": "The house signature, expressed through confident colour and the enduring elegance of the rider. An effortless foundation for a considered wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "heritage",
+      "name": "The Heritage Polo",
+      "category": "Polos",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "/assets/heritage.webp",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Burgundy",
+        "Black",
+        "Cream"
+      ],
+      "price": 235,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "description": "The house signature, expressed through confident colour and the enduring elegance of the rider. An effortless foundation for a considered wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "track",
+      "name": "The Rider Track Jacket",
+      "category": "Outerwear",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "/assets/jacket.webp",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Forest",
+        "Black",
+        "Burgundy"
+      ],
+      "price": 395,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "description": "A confident outer layer that brings the house’s sporting language to city dressing.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "court",
+      "name": "The Court Ensemble",
+      "category": "Sets",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/women.webp",
+      "pictured": "Burgundy",
+      "colors": [
+        "Burgundy",
+        "Navy",
+        "Forest",
+        "Sky"
+      ],
+      "price": 345,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "description": "A complete look with a relaxed sporting rhythm. Wear together for presence, or separately for everyday versatility.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "training",
+      "name": "The Track Ensemble",
+      "category": "Sets",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "/assets/training.webp",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Navy",
+        "Black",
+        "Burgundy"
+      ],
+      "price": 365,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "description": "A complete look with a relaxed sporting rhythm. Wear together for presence, or separately for everyday versatility.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "essentials",
+      "name": "The Sporting Essentials",
+      "category": "Accessories",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "/assets/accessories.webp",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Navy",
+        "Black",
+        "Cream"
+      ],
+      "price": 145,
+      "sizes": [
+        "One size"
+      ],
+      "description": "The final gesture: an expressive house detail to complete an individual wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "denim",
+      "name": "Atelier Rider Denim",
+      "category": "Denim",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "/assets/denim.webp",
+      "pictured": "Indigo",
+      "colors": [
+        "Indigo",
+        "Black",
+        "Vintage",
+        "Ivory"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "price": 305,
+      "description": "A confident denim silhouette with the house’s equestrian spirit. Wear with a signature polo or precise evening tailoring.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "rider-low",
+      "name": "The Rider Low",
+      "category": "Footwear",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "/assets/rider-low.webp",
+      "pictured": "Cream",
+      "colors": [
+        "Cream",
+        "Navy",
+        "Black",
+        "Burgundy"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "price": 390,
+      "description": "A distinctive finish to the complete Durbar wardrobe. Strong lines and subtle house details move easily from city to weekend.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "rider-high",
+      "name": "The Rider High",
+      "category": "Footwear",
+      "gender": [
+        "Men",
+        "Women"
+      ],
+      "image": "/assets/high-black.webp",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Burgundy",
+        "Navy"
+      ],
+      "variantImages": {
+        "Black": "/assets/high-black.webp",
+        "Burgundy": "/assets/high-burgundy.webp",
+        "Navy": "/assets/high-navy.webp"
+      },
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "price": 350,
+      "description": "A distinctive finish to the complete Durbar wardrobe. Strong lines and subtle house details move easily from city to weekend.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "tank-men",
+      "name": "Signature Tank — Men",
+      "category": "Tanks",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/tank-men.webp",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Cream",
+        "Black",
+        "Burgundy"
+      ],
+      "price": 115,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "description": "A clean sporting silhouette, brought to life by confident colour and the house signature.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "tank-women",
+      "name": "Heritage Tank — Women",
+      "category": "Tanks",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/tank-women.webp",
+      "pictured": "Cream",
+      "colors": [
+        "Cream",
+        "Forest",
+        "Burgundy",
+        "Black"
+      ],
+      "price": 135,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "description": "A clean sporting silhouette, brought to life by confident colour and the house signature.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "tank-kids",
+      "name": "Junior Rider Tank",
+      "category": "Tanks",
+      "gender": [
+        "Kids"
+      ],
+      "image": "/assets/tank-kids.webp",
+      "pictured": "Sky",
+      "colors": [
+        "Sky",
+        "Cream",
+        "Navy",
+        "Forest",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "price": 55,
+      "description": "A clean sporting silhouette, brought to life by confident colour and the house signature.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "junior-heritage",
+      "name": "Junior Heritage Ensemble",
+      "category": "Sets",
+      "gender": [
+        "Kids"
+      ],
+      "image": "/assets/junior-heritage.webp",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Cream",
+        "Burgundy",
+        "Navy",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "price": 200,
+      "description": "A complete look with a relaxed sporting rhythm. Wear together for presence, or separately for everyday versatility.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "junior-sporting",
+      "name": "Junior Sporting Ensemble",
+      "category": "Sets",
+      "gender": [
+        "Kids"
+      ],
+      "image": "/assets/junior-sporting.webp",
+      "pictured": "Sky",
+      "colors": [
+        "Sky",
+        "Navy",
+        "Cream",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "price": 210,
+      "description": "A complete look with a relaxed sporting rhythm. Wear together for presence, or separately for everyday versatility.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "noir",
+      "name": "Noir — Pour Homme",
+      "category": "Fragrance",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/noir.webp",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Forest"
+      ],
+      "sizes": [
+        "50 ml",
+        "100 ml"
+      ],
+      "price": 185,
+      "description": "An intimate expression of the house. Discover a fragrance wardrobe designed around character, atmosphere and memory.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Fragrance for the personal wardrobe",
+        "Presented in the house bottle",
+        "Available in 50 ml and 100 ml; demo price per selection"
+      ]
+    },
+    {
+      "id": "ambre-rose",
+      "name": "Ambre Rose — Pour Femme",
+      "category": "Fragrance",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/ambre-rose.webp",
+      "pictured": "Rose",
+      "colors": [
+        "Rose",
+        "Ivory"
+      ],
+      "sizes": [
+        "50 ml",
+        "100 ml"
+      ],
+      "price": 205,
+      "description": "An intimate expression of the house. Discover a fragrance wardrobe designed around character, atmosphere and memory.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Fragrance for the personal wardrobe",
+        "Presented in the house bottle",
+        "Available in 50 ml and 100 ml; demo price per selection"
+      ]
+    },
+    {
+      "id": "edit-2",
+      "name": "Regent Long-Sleeve Polo",
+      "category": "Polos",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-2.webp",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 235,
+      "description": "The house signature, expressed through confident colour and the enduring elegance of the rider. An effortless foundation for a considered wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-4",
+      "name": "Signature Knit Polo",
+      "category": "Polos",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-4.webp",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 195,
+      "description": "The house signature, expressed through confident colour and the enduring elegance of the rider. An effortless foundation for a considered wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-5",
+      "name": "Imperial Rugby Polo",
+      "category": "Polos",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-5.webp",
+      "pictured": "Burgundy",
+      "colors": [
+        "Burgundy",
+        "Navy",
+        "Cream",
+        "Forest"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 215,
+      "description": "The house signature, expressed through confident colour and the enduring elegance of the rider. An effortless foundation for a considered wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-7",
+      "name": "Sovereign Straight Denim",
+      "category": "Denim",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-7.webp",
+      "pictured": "Indigo",
+      "colors": [
+        "Indigo",
+        "Black",
+        "Vintage",
+        "Ivory"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "price": 325,
+      "description": "A confident denim silhouette with the house’s equestrian spirit. Wear with a signature polo or precise evening tailoring.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-8",
+      "name": "Noir Selvedge Denim",
+      "category": "Denim",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-8.webp",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Indigo",
+        "Vintage",
+        "Ivory"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "price": 285,
+      "description": "A confident denim silhouette with the house’s equestrian spirit. Wear with a signature polo or precise evening tailoring.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-9",
+      "name": "Atelier Relaxed Denim",
+      "category": "Denim",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-9.webp",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Indigo",
+        "Black",
+        "Vintage"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "price": 305,
+      "description": "A confident denim silhouette with the house’s equestrian spirit. Wear with a signature polo or precise evening tailoring.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-10",
+      "name": "Heritage Washed Denim",
+      "category": "Denim",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-10.webp",
+      "pictured": "Vintage",
+      "colors": [
+        "Vintage",
+        "Indigo",
+        "Black",
+        "Ivory"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "price": 325,
+      "description": "A confident denim silhouette with the house’s equestrian spirit. Wear with a signature polo or precise evening tailoring.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-11",
+      "name": "Crown Signature Tee",
+      "category": "Tops",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-11.webp",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 165,
+      "description": "A versatile expression of Durbar style, from relaxed afternoons to polished city dressing.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-12",
+      "name": "Grand Tour Overshirt",
+      "category": "Tops",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-12.webp",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Navy",
+        "Cream",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 185,
+      "description": "A versatile expression of Durbar style, from relaxed afternoons to polished city dressing.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-14",
+      "name": "Royal Linen Shirt",
+      "category": "Tops",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-14.webp",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 205,
+      "description": "A versatile expression of Durbar style, from relaxed afternoons to polished city dressing.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-15",
+      "name": "Equestrian Graphic Tee",
+      "category": "Tops",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-15.webp",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 165,
+      "description": "A versatile expression of Durbar style, from relaxed afternoons to polished city dressing.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-16",
+      "name": "Durbar Sport Performance Tee",
+      "category": "Activewear",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-16.webp",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 165,
+      "description": "Movement, colour and a distinctive house signature. A refined sporting wardrobe for the everyday.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-17",
+      "name": "Victory Training Short",
+      "category": "Activewear",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-17.webp",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Cream",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 185,
+      "description": "Movement, colour and a distinctive house signature. A refined sporting wardrobe for the everyday.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-19",
+      "name": "Performance Jogger",
+      "category": "Activewear",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-19.webp",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Navy",
+        "Cream",
+        "Burgundy"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 145,
+      "description": "Movement, colour and a distinctive house signature. A refined sporting wardrobe for the everyday.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-20",
+      "name": "Executive Hybrid — Series 01",
+      "category": "Footwear",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-20.webp",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Ivory",
+        "Navy",
+        "Cognac"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "price": 370,
+      "description": "A distinctive finish to the complete Durbar wardrobe. Strong lines and subtle house details move easily from city to weekend.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-23",
+      "name": "Regent Court Sneaker",
+      "category": "Footwear",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-23.webp",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Black",
+        "Navy",
+        "Cognac"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "price": 390,
+      "description": "A distinctive finish to the complete Durbar wardrobe. Strong lines and subtle house details move easily from city to weekend.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-24",
+      "name": "Crown Runner",
+      "category": "Footwear",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-24.webp",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Black",
+        "Ivory",
+        "Cognac"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "price": 350,
+      "description": "A distinctive finish to the complete Durbar wardrobe. Strong lines and subtle house details move easily from city to weekend.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-25",
+      "name": "Sovereign Slip-On",
+      "category": "Footwear",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-25.webp",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Ivory",
+        "Navy",
+        "Cognac"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "price": 370,
+      "description": "A distinctive finish to the complete Durbar wardrobe. Strong lines and subtle house details move easily from city to weekend.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-27",
+      "name": "Durbar Noir Intense",
+      "category": "Fragrance",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-27.webp",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Forest"
+      ],
+      "sizes": [
+        "50 ml",
+        "100 ml"
+      ],
+      "price": 225,
+      "description": "An intimate expression of the house. Discover a fragrance wardrobe designed around character, atmosphere and memory.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Fragrance for the personal wardrobe",
+        "Presented in the house bottle",
+        "Available in 50 ml and 100 ml; demo price per selection"
+      ]
+    },
+    {
+      "id": "edit-28",
+      "name": "Monarch Leather Belt",
+      "category": "Accessories",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-28.webp",
+      "pictured": "Cognac",
+      "colors": [
+        "Cognac",
+        "Black",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "80 cm",
+        "90 cm",
+        "100 cm",
+        "110 cm",
+        "120 cm"
+      ],
+      "price": 145,
+      "description": "The final gesture: an expressive house detail to complete an individual wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-29",
+      "name": "Crown Baseball Cap",
+      "category": "Accessories",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-29.webp",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Black",
+        "Cognac",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "price": 165,
+      "description": "The final gesture: an expressive house detail to complete an individual wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-30",
+      "name": "Heritage Weekender",
+      "category": "Accessories",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-30.webp",
+      "pictured": "Cognac",
+      "colors": [
+        "Cognac",
+        "Black",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "price": 185,
+      "description": "The final gesture: an expressive house detail to complete an individual wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-31",
+      "name": "Signature Cardholder",
+      "category": "Accessories",
+      "gender": [
+        "Men"
+      ],
+      "image": "/assets/edit-31.webp",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Cognac",
+        "Forest",
+        "Burgundy"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "price": 145,
+      "description": "The final gesture: an expressive house detail to complete an individual wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-32",
+      "name": "Atelier Fitted Polo",
+      "category": "Polos",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-32.webp",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Rose",
+        "Forest",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 215,
+      "description": "The house signature, expressed through confident colour and the enduring elegance of the rider. An effortless foundation for a considered wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-33",
+      "name": "Equestrian Knit Polo",
+      "category": "Polos",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-33.webp",
+      "pictured": "Burgundy",
+      "colors": [
+        "Burgundy",
+        "Ivory",
+        "Rose",
+        "Forest",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 235,
+      "description": "The house signature, expressed through confident colour and the enduring elegance of the rider. An effortless foundation for a considered wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-34",
+      "name": "Atelier Sculpt Denim",
+      "category": "Denim",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-34.webp",
+      "pictured": "Indigo",
+      "colors": [
+        "Indigo",
+        "Black",
+        "Vintage",
+        "Ivory"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "price": 285,
+      "description": "A confident denim silhouette with the house’s equestrian spirit. Wear with a signature polo or precise evening tailoring.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-35",
+      "name": "Sovereign Wide-Leg Denim",
+      "category": "Denim",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-35.webp",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Indigo",
+        "Black",
+        "Vintage"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "price": 305,
+      "description": "A confident denim silhouette with the house’s equestrian spirit. Wear with a signature polo or precise evening tailoring.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-36",
+      "name": "Noir High-Rise Denim",
+      "category": "Denim",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-36.webp",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Indigo",
+        "Vintage",
+        "Ivory"
+      ],
+      "sizes": [
+        "W26",
+        "W28",
+        "W30",
+        "W32",
+        "W34",
+        "W36",
+        "W38",
+        "W40",
+        "W42",
+        "W44",
+        "W46",
+        "W48"
+      ],
+      "price": 325,
+      "description": "A confident denim silhouette with the house’s equestrian spirit. Wear with a signature polo or precise evening tailoring.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-38",
+      "name": "Crown Silk-Feel Blouse",
+      "category": "Tops",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-38.webp",
+      "pictured": "Champagne",
+      "colors": [
+        "Champagne",
+        "Ivory",
+        "Rose",
+        "Forest",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 165,
+      "description": "A versatile expression of Durbar style, from relaxed afternoons to polished city dressing.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-39",
+      "name": "Regent Tailored Blazer",
+      "category": "Tops",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-39.webp",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Ivory",
+        "Rose",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 185,
+      "description": "A versatile expression of Durbar style, from relaxed afternoons to polished city dressing.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-40",
+      "name": "Monogram Cropped Tee",
+      "category": "Tops",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-40.webp",
+      "pictured": "Rose",
+      "colors": [
+        "Rose",
+        "Ivory",
+        "Forest",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 205,
+      "description": "A versatile expression of Durbar style, from relaxed afternoons to polished city dressing.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-41",
+      "name": "Heritage Resort Shirt",
+      "category": "Tops",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-41.webp",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Rose",
+        "Forest",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 165,
+      "description": "A versatile expression of Durbar style, from relaxed afternoons to polished city dressing.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-42",
+      "name": "Atelier Performance Set",
+      "category": "Activewear",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-42.webp",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Ivory",
+        "Rose",
+        "Forest"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 165,
+      "description": "Movement, colour and a distinctive house signature. A refined sporting wardrobe for the everyday.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-43",
+      "name": "Studio Sculpt Legging",
+      "category": "Activewear",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-43.webp",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Ivory",
+        "Rose",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 185,
+      "description": "Movement, colour and a distinctive house signature. A refined sporting wardrobe for the everyday.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-44",
+      "name": "Crown Training Jacket",
+      "category": "Activewear",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-44.webp",
+      "pictured": "Rose",
+      "colors": [
+        "Rose",
+        "Ivory",
+        "Forest",
+        "Black"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL",
+        "4XL"
+      ],
+      "price": 145,
+      "description": "Movement, colour and a distinctive house signature. A refined sporting wardrobe for the everyday.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-45",
+      "name": "Atelier Sneaker",
+      "category": "Footwear",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-45.webp",
+      "pictured": "Rose",
+      "colors": [
+        "Rose",
+        "Ivory",
+        "Forest",
+        "Champagne"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "price": 370,
+      "description": "A distinctive finish to the complete Durbar wardrobe. Strong lines and subtle house details move easily from city to weekend.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-47",
+      "name": "Celeste Court Sneaker",
+      "category": "Footwear",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-47.webp",
+      "pictured": "Champagne",
+      "colors": [
+        "Champagne",
+        "Ivory",
+        "Rose",
+        "Forest"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "price": 390,
+      "description": "A distinctive finish to the complete Durbar wardrobe. Strong lines and subtle house details move easily from city to weekend.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-48",
+      "name": "Monarch Platform Sneaker",
+      "category": "Footwear",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-48.webp",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Rose",
+        "Forest",
+        "Champagne"
+      ],
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46",
+        "EU 47",
+        "EU 48"
+      ],
+      "price": 350,
+      "description": "A distinctive finish to the complete Durbar wardrobe. Strong lines and subtle house details move easily from city to weekend.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-50",
+      "name": "Durbar Éclat",
+      "category": "Fragrance",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-50.webp",
+      "pictured": "Champagne",
+      "colors": [
+        "Champagne",
+        "Ivory",
+        "Rose"
+      ],
+      "sizes": [
+        "50 ml",
+        "100 ml"
+      ],
+      "price": 205,
+      "description": "An intimate expression of the house. Discover a fragrance wardrobe designed around character, atmosphere and memory.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Fragrance for the personal wardrobe",
+        "Presented in the house bottle",
+        "Available in 50 ml and 100 ml; demo price per selection"
+      ]
+    },
+    {
+      "id": "edit-51",
+      "name": "Crown Tote",
+      "category": "Accessories",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-51.webp",
+      "pictured": "Forest",
+      "colors": [
+        "Forest",
+        "Ivory",
+        "Burgundy",
+        "Rose"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "price": 185,
+      "description": "The final gesture: an expressive house detail to complete an individual wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-52",
+      "name": "Atelier Mini Bag",
+      "category": "Accessories",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-52.webp",
+      "pictured": "Burgundy",
+      "colors": [
+        "Burgundy",
+        "Forest",
+        "Ivory",
+        "Rose"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "price": 145,
+      "description": "The final gesture: an expressive house detail to complete an individual wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-53",
+      "name": "Heritage Silk Scarf",
+      "category": "Accessories",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-53.webp",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Forest",
+        "Burgundy",
+        "Rose"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "price": 165,
+      "description": "The final gesture: an expressive house detail to complete an individual wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-54",
+      "name": "Monarch Sunglasses",
+      "category": "Accessories",
+      "gender": [
+        "Women"
+      ],
+      "image": "/assets/edit-54.webp",
+      "pictured": "Black",
+      "colors": [
+        "Black",
+        "Forest",
+        "Ivory",
+        "Burgundy",
+        "Rose"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "price": 185,
+      "description": "The final gesture: an expressive house detail to complete an individual wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-55",
+      "name": "Little Monarch Polo",
+      "category": "Polos",
+      "gender": [
+        "Kids"
+      ],
+      "image": "/assets/edit-55.webp",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Cream",
+        "Navy",
+        "Sky",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "price": 115,
+      "description": "The house signature, expressed through confident colour and the enduring elegance of the rider. An effortless foundation for a considered wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-56",
+      "name": "Junior Equestrian Polo",
+      "category": "Polos",
+      "gender": [
+        "Kids"
+      ],
+      "image": "/assets/edit-56.webp",
+      "pictured": "Burgundy",
+      "colors": [
+        "Burgundy",
+        "Cream",
+        "Navy",
+        "Sky",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "price": 125,
+      "description": "The house signature, expressed through confident colour and the enduring elegance of the rider. An effortless foundation for a considered wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-57",
+      "name": "Junior Heritage Denim",
+      "category": "Denim",
+      "gender": [
+        "Kids"
+      ],
+      "image": "/assets/edit-57.webp",
+      "pictured": "Indigo",
+      "colors": [
+        "Indigo",
+        "Black",
+        "Vintage",
+        "Ivory",
+        "Red"
+      ],
+      "sizes": [
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "price": 190,
+      "description": "A confident denim silhouette with the house’s equestrian spirit. Wear with a signature polo or precise evening tailoring.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-58",
+      "name": "Mini Crown Tee",
+      "category": "Tops",
+      "gender": [
+        "Kids"
+      ],
+      "image": "/assets/edit-58.webp",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Cream",
+        "Navy",
+        "Sky",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "price": 95,
+      "description": "A versatile expression of Durbar style, from relaxed afternoons to polished city dressing.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-59",
+      "name": "Little Regent Hoodie",
+      "category": "Tops",
+      "gender": [
+        "Kids"
+      ],
+      "image": "/assets/edit-59.webp",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Cream",
+        "Sky",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "2–3 years",
+        "4–5 years",
+        "6–7 years",
+        "8–9 years",
+        "10–11 years",
+        "12–13 years",
+        "14–15 years"
+      ],
+      "price": 105,
+      "description": "A versatile expression of Durbar style, from relaxed afternoons to polished city dressing.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-62",
+      "name": "Little Monarch Sneaker",
+      "category": "Footwear",
+      "gender": [
+        "Kids"
+      ],
+      "image": "/assets/edit-62.webp",
+      "pictured": "Ivory",
+      "colors": [
+        "Ivory",
+        "Navy",
+        "Sky",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "EU 26",
+        "EU 27",
+        "EU 28",
+        "EU 29",
+        "EU 30",
+        "EU 31",
+        "EU 32",
+        "EU 33",
+        "EU 34",
+        "EU 35",
+        "EU 36"
+      ],
+      "price": 225,
+      "description": "A distinctive finish to the complete Durbar wardrobe. Strong lines and subtle house details move easily from city to weekend.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-63",
+      "name": "Junior Royale High-Top",
+      "category": "Footwear",
+      "gender": [
+        "Kids"
+      ],
+      "image": "/assets/edit-63.webp",
+      "pictured": "Navy",
+      "colors": [
+        "Navy",
+        "Ivory",
+        "Sky",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "EU 26",
+        "EU 27",
+        "EU 28",
+        "EU 29",
+        "EU 30",
+        "EU 31",
+        "EU 32",
+        "EU 33",
+        "EU 34",
+        "EU 35",
+        "EU 36"
+      ],
+      "price": 205,
+      "description": "A distinctive finish to the complete Durbar wardrobe. Strong lines and subtle house details move easily from city to weekend.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "edit-64",
+      "name": "Mini Crown Cap",
+      "category": "Accessories",
+      "gender": [
+        "Kids"
+      ],
+      "image": "/assets/edit-64.webp",
+      "pictured": "Sky",
+      "colors": [
+        "Sky",
+        "Navy",
+        "Cream",
+        "Burgundy",
+        "Red"
+      ],
+      "sizes": [
+        "One size"
+      ],
+      "price": 95,
+      "description": "The final gesture: an expressive house detail to complete an individual wardrobe.",
+      "status": "In stock",
+      "stock": 100,
+      "season": "All season",
+      "availableDate": "",
+      "details": [
+        "Distinctive Durbar house identity",
+        "Explore the colour palette below",
+        "Consult the size guide before ordering"
+      ]
+    },
+    {
+      "id": "aisha-dress",
+      "name": "Aisha — The Evening Dress",
+      "category": "Dresses",
+      "gender": [
+        "Women"
+      ],
+      "price": 895,
+      "colors": [
+        "Emerald",
+        "Black",
+        "Burgundy",
+        "Gold"
+      ],
+      "pictured": "Emerald",
+      "description": "A graceful sweep of emerald, a sculpted waist and a golden house accent. Aisha celebrates presence: assured, fluid and entirely her own.",
+      "image": "/assets/aisha-dress.webp",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "season": "All season",
+      "status": "In stock",
+      "availableDate": "",
+      "stock": 75,
+      "details": [
+        "A signature of the expanded house collection",
+        "Complete the look with footwear and accessories",
+        "Explore the palette and select your size"
+      ]
+    },
+    {
+      "id": "elizabethan-suit",
+      "name": "Elizabethan — The Tailored Ensemble",
+      "category": "Tailoring",
+      "gender": [
+        "Women"
+      ],
+      "price": 795,
+      "colors": [
+        "Ivory",
+        "Black",
+        "Rose",
+        "Navy"
+      ],
+      "pictured": "Ivory",
+      "description": "A tribute to enduring elegance. The Elizabethan ensemble brings composed lines, an elongated silhouette and quiet confidence to the modern wardrobe.",
+      "image": "/assets/elizabethan-suit.webp",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "season": "All season",
+      "status": "In stock",
+      "availableDate": "",
+      "stock": 75,
+      "details": [
+        "A signature of the expanded house collection",
+        "Complete the look with footwear and accessories",
+        "Explore the palette and select your size"
+      ]
+    },
+    {
+      "id": "mickey-junior",
+      "name": "Mickey — Little Regent Dress & Coat",
+      "category": "Junior",
+      "gender": [
+        "Kids"
+      ],
+      "price": 245,
+      "colors": [
+        "Navy",
+        "Cream",
+        "Rose"
+      ],
+      "pictured": "Navy",
+      "description": "A joyful dress-and-coat ensemble from Durbar Junior, named for Mickey. A little ceremony for life’s brightest occasions.",
+      "image": "/assets/mickey-junior.webp",
+      "sizes": [
+        "2Y",
+        "3Y",
+        "4Y",
+        "5Y",
+        "6Y"
+      ],
+      "season": "All season",
+      "status": "In stock",
+      "availableDate": "",
+      "stock": 75,
+      "details": [
+        "A signature of the expanded house collection",
+        "Complete the look with footwear and accessories",
+        "Explore the palette and select your size"
+      ]
+    },
+    {
+      "id": "gold-shirt",
+      "name": "Aurum — The Gold Rider Shirt",
+      "category": "Gold Edit",
+      "gender": [
+        "Men"
+      ],
+      "price": 325,
+      "colors": [
+        "Gold",
+        "Black",
+        "Cream"
+      ],
+      "pictured": "Gold",
+      "description": "Light catches the rider. An expressive golden shirt with a flowing silhouette, made for evenings that deserve an entrance.",
+      "image": "/assets/gold-shirt.webp",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "season": "All season",
+      "status": "In stock",
+      "availableDate": "",
+      "stock": 75,
+      "details": [
+        "A signature of the expanded house collection",
+        "Complete the look with footwear and accessories",
+        "Explore the palette and select your size"
+      ]
+    },
+    {
+      "id": "winter-men",
+      "name": "Grand Tour — The Winter Coat",
+      "category": "Winter",
+      "gender": [
+        "Men"
+      ],
+      "price": 895,
+      "colors": [
+        "Navy",
+        "Black",
+        "Camel"
+      ],
+      "pictured": "Navy",
+      "description": "An architectural winter silhouette with a distinguished line. Grand Tour accompanies the journey from a city arrival to an evening engagement.",
+      "image": "/assets/winter-men.webp",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "season": "Autumn / Winter",
+      "status": "Pre-order",
+      "availableDate": "2027-02-15",
+      "stock": 75,
+      "details": [
+        "A signature of the expanded house collection",
+        "Complete the look with footwear and accessories",
+        "Explore the palette and select your size"
+      ]
+    },
+    {
+      "id": "winter-women",
+      "name": "Sovereign — The Winter Coat",
+      "category": "Winter",
+      "gender": [
+        "Women"
+      ],
+      "price": 845,
+      "colors": [
+        "Camel",
+        "Ivory",
+        "Black"
+      ],
+      "pictured": "Camel",
+      "description": "Softly commanding, beautifully composed. A full-length winter silhouette that frames the complete Durbar wardrobe.",
+      "image": "/assets/winter-women.webp",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "season": "Autumn / Winter",
+      "status": "Pre-order",
+      "availableDate": "2027-02-15",
+      "stock": 75,
+      "details": [
+        "A signature of the expanded house collection",
+        "Complete the look with footwear and accessories",
+        "Explore the palette and select your size"
+      ]
+    },
+    {
+      "id": "suit-men",
+      "name": "Regent — The City Suit",
+      "category": "Tailoring",
+      "gender": [
+        "Men"
+      ],
+      "price": 995,
+      "colors": [
+        "Charcoal",
+        "Navy",
+        "Black"
+      ],
+      "pictured": "Charcoal",
+      "description": "Precision with personality. A refined two-piece silhouette for the boardroom, the city and the exceptional occasion.",
+      "image": "/assets/suit-men.webp",
+      "sizes": [
+        "EU 46",
+        "EU 48",
+        "EU 50",
+        "EU 52",
+        "EU 54",
+        "EU 56",
+        "EU 58",
+        "EU 60"
+      ],
+      "season": "All season",
+      "status": "In stock",
+      "availableDate": "",
+      "stock": 75,
+      "details": [
+        "A signature of the expanded house collection",
+        "Complete the look with footwear and accessories",
+        "Explore the palette and select your size"
+      ]
+    },
+    {
+      "id": "swim-women",
+      "name": "Riviera — The Signature One-Piece",
+      "category": "Resort & Swim",
+      "gender": [
+        "Women"
+      ],
+      "price": 225,
+      "colors": [
+        "Black",
+        "Emerald",
+        "Ivory"
+      ],
+      "pictured": "Black",
+      "description": "A sculpted one-piece with a golden house accent. An elegant expression of resort dressing, from terrace to water.",
+      "image": "/assets/swim-women.webp",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "season": "Spring / Summer",
+      "status": "In stock",
+      "availableDate": "",
+      "stock": 75,
+      "details": [
+        "A signature of the expanded house collection",
+        "Complete the look with footwear and accessories",
+        "Explore the palette and select your size"
+      ]
+    },
+    {
+      "id": "swim-men",
+      "name": "Riviera — Swim & Resort Ensemble",
+      "category": "Resort & Swim",
+      "gender": [
+        "Men"
+      ],
+      "price": 245,
+      "colors": [
+        "Navy",
+        "Cream",
+        "Sky"
+      ],
+      "pictured": "Navy",
+      "description": "A relaxed resort pairing with a considered silhouette. From the coast to an unhurried afternoon on deck.",
+      "image": "/assets/swim-men.webp",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+      ],
+      "season": "Spring / Summer",
+      "status": "In stock",
+      "availableDate": "",
+      "stock": 75,
+      "details": [
+        "A signature of the expanded house collection",
+        "Complete the look with footwear and accessories",
+        "Explore the palette and select your size"
+      ]
+    },
+    {
+      "id": "western-men",
+      "name": "Frontier — Men’s Western Boot",
+      "category": "Western",
+      "gender": [
+        "Men"
+      ],
+      "price": 595,
+      "colors": [
+        "Black",
+        "Cognac"
+      ],
+      "pictured": "Black",
+      "description": "A bold Western profile with equestrian character. Pair with dark denim and the Aurum shirt for a complete house statement.",
+      "image": "/assets/western-boots.webp",
+      "sizes": [
+        "EU 40",
+        "EU 41",
+        "EU 42",
+        "EU 43",
+        "EU 44",
+        "EU 45",
+        "EU 46"
+      ],
+      "season": "All season",
+      "status": "In stock",
+      "availableDate": "",
+      "stock": 75,
+      "details": [
+        "A signature of the expanded house collection",
+        "Complete the look with footwear and accessories",
+        "Explore the palette and select your size"
+      ]
+    },
+    {
+      "id": "western-women",
+      "name": "Frontier — Women’s Western Boot",
+      "category": "Western",
+      "gender": [
+        "Women"
+      ],
+      "price": 575,
+      "colors": [
+        "Ivory",
+        "Black",
+        "Cognac"
+      ],
+      "pictured": "Ivory",
+      "description": "An elegant Western silhouette, set apart by a luminous ivory palette. A distinctive partner to dresses, denim and modern tailoring.",
+      "image": "/assets/western-boots.webp",
+      "sizes": [
+        "EU 36",
+        "EU 37",
+        "EU 38",
+        "EU 39",
+        "EU 40",
+        "EU 41",
+        "EU 42"
+      ],
+      "season": "All season",
+      "status": "In stock",
+      "availableDate": "",
+      "stock": 75,
+      "details": [
+        "A signature of the expanded house collection",
+        "Complete the look with footwear and accessories",
+        "Explore the palette and select your size"
+      ]
+    },
+    {
+      "id": "signature-extended",
+      "name": "Signature Polo — Big & Tall",
+      "category": "Big & Tall",
+      "gender": [
+        "Men"
+      ],
+      "price": 215,
+      "colors": [
+        "Cream",
+        "Navy",
+        "Forest",
+        "Burgundy"
+      ],
+      "pictured": "Cream",
+      "description": "The Signature Polo in an extended size and length edit. Confident style with room to express yourself.",
+      "image": "/assets/signature.webp",
+      "sizes": [
+        "2XL",
+        "3XL",
+        "4XL",
+        "5XL",
+        "6XL",
+        "LT",
+        "XLT",
+        "2XLT",
+        "3XLT",
+        "4XLT"
+      ],
+      "season": "All season",
+      "status": "In stock",
+      "availableDate": "",
+      "stock": 75,
+      "details": [
+        "A signature of the expanded house collection",
+        "Complete the look with footwear and accessories",
+        "Explore the palette and select your size"
+      ]
+    },
+    {
+      "id": "elizabethan-extended",
+      "name": "Elizabethan — Extended Fit",
+      "category": "Big & Tall",
+      "gender": [
+        "Women"
+      ],
+      "price": 795,
+      "colors": [
+        "Ivory",
+        "Black",
+        "Navy"
+      ],
+      "pictured": "Ivory",
+      "description": "The Elizabethan silhouette in an extended size edit. A composed, complete look with unmistakable presence.",
+      "image": "/assets/elizabethan-suit.webp",
+      "sizes": [
+        "US 14",
+        "US 16",
+        "US 18",
+        "US 20",
+        "US 22",
+        "US 24",
+        "US 26",
+        "US 28"
+      ],
+      "season": "All season",
+      "status": "In stock",
+      "availableDate": "",
+      "stock": 75,
+      "details": [
+        "A signature of the expanded house collection",
+        "Complete the look with footwear and accessories",
+        "Explore the palette and select your size"
+      ]
+    }
+  ],
+  "colors": {
+    "Cream": "#f0e8d8",
+    "Navy": "#182b47",
+    "Forest": "#163e30",
+    "Burgundy": "#702536",
+    "Sky": "#7db1cc",
+    "Black": "#20211f",
+    "Indigo": "#26344b",
+    "Vintage": "#7593b0",
+    "Ivory": "#eee5d5",
+    "Rose": "#cba49c",
+    "Cognac": "#8c5837",
+    "Champagne": "#d8c5a3",
+    "Red": "#a82d36",
+    "Gold": "#BE9951",
+    "Emerald": "#174E3B",
+    "Camel": "#B68C5E",
+    "Charcoal": "#454543"
+  }
+}
